@@ -14,10 +14,11 @@ Adding a new note is simple, as users can click on the "+" sign in the top right
 
 Overall, the application is user-friendly, responsive, and efficient in storing and managing notes using Express and Node.js technologies.
 
+Link to heroku application: https://note-taker-responsive.herokuapp.com/
+
 ![Note Taker](./images/image1.png)
 ![Note Taker](./images/image2.png)
 
-Link to heroku application: https://note-taker-responsive.herokuapp.com/
 
 ## Table of Contents
 1.) <a href = "#License">License</a><br>
