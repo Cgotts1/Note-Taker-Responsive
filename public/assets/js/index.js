@@ -16,6 +16,8 @@ if (window.location.pathname === '/notes') {
 //   noteCounter = document.querySelector('.note-counter')
 }
 
+
+// ---------CODE FOR INDEX PAGE BELOW---------
 let indexTakeNotes;
 
 if (window.location.pathname === '/') {
@@ -32,14 +34,14 @@ if (window.location.pathname === '/') {
      setTimeout(typeWriter, speed);
    }
  }
+
 typeWriter()
-
 }
+// -------------CODE FOR INDEX PAGE ABOVE----------------------
 
 
 
-
-// ---------------------------------- EXP BELOW
+// --------------- EXP BELOW FOR NOTE LENGTH (FUNCTIONAL)------------
 // fetch('/api/notes')
 //   .then(response => response.json())
 //   .then(data => {
@@ -54,7 +56,7 @@ typeWriter()
 //   })
 //   .catch(error => console.error('Error fetching data:', error));
 
-// -------------------------------------- EXP ABOVE
+// ------------------ EXP ABOVE----------------------
 
 // Show an element
 const show = (elem) => {
