@@ -1,4 +1,4 @@
-# Note-Taker
+# Note-Taker-Responsive
 
 ## <section id = "License">License</section>
 N/A
@@ -30,7 +30,7 @@ Link to heroku application: https://note-taker-responsive.herokuapp.com/
 7.) <a href = "#Questions">Questions</a>
 
 ## <section id = "Installation">Installation</section>
-Command to Install Dependencies: npm init -y, npm i express
+Command to Install Dependencies: npm init -y, npm i, npm i express
 
 ## <section id = "Usage">Usage</section>
 Using the Repo: N/A 
