@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Go to Work",
+        "text": "Don't be late!",
+        "id": "dee2"
+    },
+    {
+        "title": "Sing",
+        "text": "Practice to get better!",
+        "id": "d4b0"
+    },
+    {
+        "title": "Draw a Picture",
+        "text": "Make a nice drawing for fun",
+        "id": "9327"
+    },
+    {
+        "title": "Get Groceries",
+        "text": "Go and buy some groceries at the market!",
+        "id": "8dd2"
+    },
+    {
+        "title": "Make Dinner",
+        "text": "Cook something good to eat!",
+        "id": "20c3"
+    },
+    {
+        "title": "Study",
+        "text": "Make sure to learn a lot!",
+        "id": "d471"
+    }
+]
