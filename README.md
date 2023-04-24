@@ -17,10 +17,7 @@ Overall, the application is user-friendly, responsive, and efficient in storing 
 ![Note Taker](./images/image1.png)
 ![Note Taker](./images/image2.png)
 
-Link to heroku application: 
-
-Link to github application: 
-
+Link to heroku application: https://note-taker-responsive.herokuapp.com/
 
 ## Table of Contents
 1.) <a href = "#License">License</a><br>
